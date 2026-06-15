@@ -1,0 +1,149 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "sandeep",
+      "email": "sandeep@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "mounika",
+      "email": "mouni@gmail.com",
+      "password": "143143",
+      "id": "fOgAKuosAxE"
+    }
+  ],
+
+ "movies": [
+  {
+    "id": "1",
+    "title": "Baahubali: The Beginning",
+    "genre": "Action",
+    "rating": 4.8,
+    "releaseYear": 2015,
+    "director": "S. S. Rajamouli",
+    "duration": "159 min",
+    "image": "/images/bahubali.jpg",
+    "trailerId": "sOEg_YZQsTI",
+    "description": "Shivudu discovers his royal heritage and begins an epic journey to reclaim Mahishmati."
+  },
+
+  {
+    "id": "2",
+    "title": "Baahubali 2: The Conclusion",
+    "genre": "Action",
+    "rating": 4.9,
+    "releaseYear": 2017,
+    "director": "S. S. Rajamouli",
+    "duration": "167 min",
+    "image": "/images/bahubali2.jpg",
+    "trailerId": "G62HrubdD6o",
+    "description": "The mystery behind Amarendra Baahubali's death is revealed in this grand conclusion."
+  },
+
+  {
+    "id": "3",
+    "title": "RRR",
+    "genre": "Action",
+    "rating": 4.8,
+    "releaseYear": 2022,
+    "director": "S. S. Rajamouli",
+    "duration": "182 min",
+    "image": "/images/rrr.jpg",
+    "trailerId": "NgBoMJy386M",
+    "description": "Two legendary revolutionaries unite against British rule in a fictional historical drama."
+  },
+
+  {
+    "id": "4",
+    "title": "Pushpa: The Rise",
+    "genre": "Action",
+    "rating": 4.7,
+    "releaseYear": 2021,
+    "director": "Sukumar",
+    "duration": "179 min",
+    "image": "/images/pushpa.jpg",
+    "trailerId": "Q1NKMPhP8PY",
+    "description": "Pushpa Raj rises through the ranks of the red sandalwood smuggling syndicate."
+  },
+
+  {
+    "id": "5",
+    "title": "Pushpa 2: The Rule",
+    "genre": "Action",
+    "rating": 4.8,
+    "releaseYear": 2024,
+    "director": "Sukumar",
+    "duration": "190 min",
+    "image": "/images/pushpa2.jpg",
+    "trailerId": "g3JUbgOHgdw",
+    "description": "Pushpa returns stronger than ever to dominate his enemies and expand his empire."
+  },
+
+  {
+    "id": "6",
+    "title": "Salaar",
+    "genre": "Action",
+    "rating": 4.7,
+    "releaseYear": 2023,
+    "director": "Prashanth Neel",
+    "duration": "175 min",
+    "image": "/images/salaar.jpg",
+    "trailerId": "4GPvYMKtrtI",
+    "description": "A fierce friendship turns into a powerful battle for control of a kingdom."
+  },
+
+  {
+    "id": "7",
+    "title": "Kalki 2898 AD",
+    "genre": "Sci-Fi",
+    "rating": 4.8,
+    "releaseYear": 2024,
+    "director": "Nag Ashwin",
+    "duration": "181 min",
+    "image": "/images/kalki.jpg",
+    "trailerId": "BfCIPsEGAS8",
+    "description": "A futuristic mythological epic set in a dystopian world inspired by the Mahabharata."
+  },
+
+  {
+    "id": "8",
+    "title": "Devara",
+    "genre": "Action",
+    "rating": 4.7,
+    "releaseYear": 2024,
+    "director": "Koratala Siva",
+    "duration": "170 min",
+    "image": "/images/devara.jpg",
+    "trailerId": "rc61YHl1PFY",
+    "description": "A coastal warrior fights injustice and protects his people from powerful enemies."
+  },
+
+  {
+    "id": "9",
+    "title": "Hanu-Man",
+    "genre": "Superhero",
+    "rating": 4.8,
+    "releaseYear": 2024,
+    "director": "Prasanth Varma",
+    "duration": "158 min",
+    "image": "/images/hanuman.jpg",
+    "trailerId": "Oqvly3MvlXA",
+    "description": "A young man gains divine powers inspired by Lord Hanuman and battles evil forces."
+  },
+
+  {
+    "id": "10",
+    "title": "Sita Ramam",
+    "genre": "Romance",
+    "rating": 4.9,
+    "releaseYear": 2022,
+    "director": "Hanu Raghavapudi",
+    "duration": "163 min",
+    "image": "/images/sitaramam.jpg",
+    "trailerId": "Ljk6tGZ1l3A",
+    "description": "A timeless love story between an army officer and a mysterious woman unfolds through letters."
+  }
+],
+  "$schema": "./node_modules/json-server/schema.json"
+}
