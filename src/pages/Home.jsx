@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function Home() {
   return (
     <>
@@ -10,9 +12,9 @@ function Home() {
             and your favorite South Indian movies all in one place.
           </p>
 
-          <a href="/movies" className="hero-btn">
-            Explore Movies
-          </a>
+          <Link to="/movies" className="hero-btn">
+          Explore Movies
+          </Link>
         </div>
       </section>
 
